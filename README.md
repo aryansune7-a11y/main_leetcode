@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryansune7-a11y/main_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/aryansune7-a11y/main_leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Math
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aryansune7-a11y/main_leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/aryansune7-a11y/main_leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aryansune7-a11y/main_leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/aryansune7-a11y/main_leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Simulation
 |  |
 | ------- |
