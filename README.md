@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/aryansune7-a11y/main_leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aryansune7-a11y/main_leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3360-stone-removal-game](https://github.com/aryansune7-a11y/main_leetcode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/aryansune7-a11y/main_leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aryansune7-a11y/main_leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/aryansune7-a11y/main_leetcode/tree/master/3360-stone-removal-game) |
 ## Greedy
 |  |
 | ------- |
